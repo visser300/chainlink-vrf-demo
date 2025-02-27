@@ -1,0 +1,11 @@
+{
+    "name": "foundry-chainlink-random",
+    "version": "1.0.0",
+    "author": "Quang Nguyen <ngocquang19877@gmail.com>", 
+    "license": "MIT",
+    "scripts": {
+        "install:deps": "./install_deps.sh",
+        "test": "forge test"
+    },
+    "dependencies": {}
+  }
